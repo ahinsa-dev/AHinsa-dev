@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **python**
 
-- ⚡ Fun fact **Call me as princess 👩🏼  **
+- ⚡ Fun fact **Call me as princess 👩🏼**
 ---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
