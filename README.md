@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm AHinsa-dev</h1>
+<h1 align="center">Hi 👋, I'm Ahinsa</h1>
 <h3 align="center">A passionate software developer</h3>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=0717509182&label=Profile%20views&color=0e75b6&style=flat" alt="0717509182" /> </p>
